@@ -1,0 +1,4 @@
+Today is {date1} and current time is {time1}.
+I am feeling {mood}.
+Heres a int {ints} and heres a float {floats}.
+I love speedruning.
